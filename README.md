@@ -1,4 +1,4 @@
-##AIM:
+## AIM:
 To assemble the components of the computer.
 
 
