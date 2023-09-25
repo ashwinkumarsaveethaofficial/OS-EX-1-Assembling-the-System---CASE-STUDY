@@ -1,10 +1,14 @@
-# AIM:
+##AIM:
 To assemble the components of the computer.
+
+
 
 # PROCEDURE:
 1.Open the case:The First Step In Assembling A Computer Is To Open The
 Computer Case. To Open The Case, First Remove The Screws Of The Left Side
 Cover And Slide The Side Cover.
+
+
 
 ![Screenshot 2023-09-15 085408](https://github.com/amurthavaahininagarajan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118679102/398abe12-e6af-4e39-870b-28d1d4d186e2)
 
